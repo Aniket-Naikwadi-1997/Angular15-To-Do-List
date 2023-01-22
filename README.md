@@ -4,7 +4,7 @@
  ## How it works ?
  
  :tv: Video tutorial on this same topic
- Url : https://youtu.be/kzl4IKAC8O4
+
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=kzl4IKAC8O4
 " target="_blank"><img src="http://img.youtube.com/vi/kzl4IKAC8O4/0.jpg" 
